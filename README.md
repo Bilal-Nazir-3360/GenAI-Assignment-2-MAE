@@ -143,12 +143,3 @@ pillow
 
 ---
 
-## How to add to GitHub:
-```
-1. Open your repository
-2. Click "Add file"
-3. Click "Create new file"
-4. Name it: README.md
-5. Paste above content
-6. Update your name and roll number
-7. Click "Commit changes"
